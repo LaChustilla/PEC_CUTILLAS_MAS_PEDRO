@@ -1,0 +1,231 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/*Principio del Artículo*/
+body {
+	background-color: #e2dbc8;
+	text-align: left;
+}
+
+header {
+	
+}
+
+h1 {
+	text-align: center;
+	color: #647772;
+	padding: 10px 0px; 
+}
+
+a {
+	color: #e66864;
+	padding: 5px;
+	padding-left: 15px;
+	text-decoration: none;
+}
+
+a.color {
+	color: red;
+}
+
+a:hover {
+	color: white;
+}
+
+img {
+	width: 820px;
+	height: 500px;
+	border: 10px;
+	border-color: white;
+	text-align: right;
+	padding: 0px 350px;
+}
+
+nav {
+	text-align: center;
+	background-color: #423737;
+}
+
+#pad {
+	padding: 0px 350px;
+	text-align: right;
+}
+
+main {
+	padding: 0px 350px;
+}
+
+#white {
+	color: red;
+	background-color: white;
+	text-align: left;
+}
+
+p.padding {
+	padding: 0px 350px;
+}
+
+p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#color {
+	color: black;
+}
+
+#color2 {
+	color: #647772;
+}
+
+#color3 {
+	color: red;
+}
+
+#color4 {
+	color: #647772;
+}
+
+#color5 {
+	color: #647772;
+}
+
+#color6 {
+	color: #647772;
+}
+
+#color7 {
+	color: black;
+}
+
+#color8 {
+	color: black;
+}
+
+#white {
+	border-left: 3px solid;
+	border-color: #6d7c76;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#white2 {
+	border-left: 3px solid;
+	border-color: #6d7c76;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: white;
+}
+
+#white3 {
+	border-left: 3px solid;
+	border-color: #6d7c76;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: white;
+	color: red;
+}
+
+footer {
+	background-color: #596c68;
+	text-align: right;
+	padding-right: 370px;
+}
+
+/*Final del Artículo*/
+/*Principio Listado*/
+#padding2 {
+	padding-top: 50px;
+}
+
+#padding {
+	padding-left: 50px;
+}
+
+#padding4 {
+	padding-left: 50px;
+}
+
+#padding3 {
+	padding-left: 50px;
+}
+
+#paddingbuttom2 {
+	padding-bottom: 82px;
+	padding-top: 10px;
+}
+
+#paddingli {
+	padding-top: 10px;
+}
+
+#paddingli2 {
+	padding-top: 10px;
+}
+
+#paddingli3 {
+	padding-top: 10px;
+}
+
+#paddingli4 {
+	padding-top: 10px;
+}
+
+#paddingli5 {
+	padding-top: 10px;
+}
+
+h2.color2 {
+	color: #647772;
+}
+
+ul {
+	padding: 5px 0px;
+}
+/*Final del Listado*/
+/*Principio Centros*/
+#colortitulo1 {
+	color: red;
+}
+
+#colortitulo2 {
+	color: #647772;
+}
+
+#colortitulo3 {
+	color: red;
+}
+
+#colortitulo4 {
+	color: #647772;
+}
+
+#colortitulo5 {
+	color: red;
+}
+
+#colortitulo6 {
+	color: #647772;
+}
+
+#colortitulo7 {
+	color: red;
+}
+
+#colortitulo8 {
+	color: #647772;
+}
+
+#paddingbuttom {
+	padding-bottom: 150px;
+}
+
+a.back {
+	background-color: #f26864;
+	float: right;
+	color: white;
+	border-radius: 6px;
+	text-decoration: none; 
+}
+/*Final del Centros*/
